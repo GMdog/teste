@@ -1,0 +1,31 @@
+p{
+    color: aqua;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h1{
+    text-align: center;
+
+}
+body{
+    margin: 0px;
+    background-image: url(alguns-dos-carros-de-mc-ryan-1712919410539_v2_900x506.jpg)
+}
+
+.aula{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    
+
+}
+
+#sala{
+    font-size: 30px;
+    margin: 0px;
+    background-color: black;
+    padding: 10px;
+
+}
